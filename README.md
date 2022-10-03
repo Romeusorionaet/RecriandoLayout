@@ -4,7 +4,7 @@
 
 > Ainda não está responsivo, em breve estará!
 
-[link da página](https://romeusorionaet.github.io/RecriandoLayout)
+[link da página](https://romeusorionaet.github.io/RecriandoLayout/)
 
 ![preview](./images/preview/preview.png)
 
